@@ -23,10 +23,10 @@ include('conexao.php');
             <li class="dropdown-submenu">
                 <a class="test" tabindex="-1" href="#">Local<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a tabindex='-1' href='#' class='local-item' data-local='quadra'>Quadra</a></li>
-                    <li><a tabindex='-1' href='#' class='biblioteca-item' data-local='biblioteca'>Biblioteca</a></li>
-                    <li><a tabindex='-1' href='#' class='blocoa-item' data-local='blocoa'>Bloco A</a></li>
-                    <li><a tabindex='-1' href='#' class='blocob-item' data-local='blocob'>Bloco B</a></li>
+                    <li><a tabindex='-1' href='#' class='local-item' data-local='Quadra'>Quadra</a></li>
+                    <li><a tabindex='-1' href='#' class='biblioteca-item' data-local='Biblioteca'>Biblioteca</a></li>
+                    <li><a tabindex='-1' href='#' class='blocoa-item' data-local='Bloco A'>Bloco A</a></li>
+                    <li><a tabindex='-1' href='#' class='blocob-item' data-local='Bloco B'>Bloco B</a></li>
                 </ul>
             </li>
         </ul>
